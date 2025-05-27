@@ -7,7 +7,7 @@ Learn the hardware of ur computer easily!!
 ## Tech Stack
 
 - HTML5 / CSS3
-- 
+  
 ---
 
 ## How to see
