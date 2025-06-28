@@ -13,6 +13,13 @@ This project is designed to provide an **interactive** and **educational** intro
 
 ---
 
+
+## How to see
+
+click here: https://farnaztr.github.io/hardware/
+
+---
+
 ## Why is it useful?
 
 Understanding computer hardware is fundamental for anyone interested in IT, programming, hardware repair, or just wanting to upgrade their own PC confidently. This project removes the complexity by breaking down technical jargon into simple language and guiding users visually and interactively.
@@ -31,11 +38,6 @@ Understanding computer hardware is fundamental for anyone interested in IT, prog
 - **Sound Card:** Processes audio signals for sound output.
 - **Cache:** Ultra-fast memory located inside the CPU to speed up data access.
 
----
-
-# How to see
-
-click here: https://farnaztr.github.io/hardware/
 
 ---
 
