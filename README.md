@@ -10,7 +10,6 @@ This project is designed to provide an **interactive** and **educational** intro
 - Offers **concise, easy-to-understand explanations** for each hardware piece.
 - Enables users to **click on each component**, which redirects to a carefully selected YouTube tutorial video that explains that part in detail.
 - Provides a **clean and modern UI** with smooth hover effects, making learning engaging and enjoyable.
-- Supports **multiple languages** for accessibility (English and Persian).
 
 ---
 
